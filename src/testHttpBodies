@@ -1,0 +1,6 @@
+{
+  "provider": "gmail",
+  "to_email": "botyware@gmail.com",
+  "subject": "test",
+  "body": "Greetings this is a test!"
+}
